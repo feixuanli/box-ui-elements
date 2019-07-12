@@ -1,0 +1,27 @@
+[
+  {
+    "id": "be.contentSidebar.activityFeed.task.rejectedAssignment",
+    "description": "Title for x icon indicating someone rejected a task",
+    "defaultMessage": "Rejected"
+  },
+  {
+    "id": "be.contentSidebar.activityFeed.task.taskApprove",
+    "description": "Approve option for a task",
+    "defaultMessage": "Complete"
+  },
+  {
+    "id": "be.contentSidebar.activityFeed.task.taskReject",
+    "description": "Reject option for a task",
+    "defaultMessage": "Decline"
+  },
+  {
+    "id": "be.contentSidebar.activityFeed.task.tasksForApproval",
+    "description": "Tasks for approval",
+    "defaultMessage": "Tasks"
+  },
+  {
+    "id": "be.contentSidebar.activityFeed.task.taskDueDate",
+    "description": "Due date for a task",
+    "defaultMessage": "Due"
+  }
+]
